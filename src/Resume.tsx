@@ -10,7 +10,7 @@ function Resume() {
 			<div className="resume-container">
 				<div className="header">
 					<Divider orientation="bottom" thickness={1}></Divider>
-					<Header>Michał Dobrzański</Header>
+					<Header subheader="software engineer">Michał Dobrzański</Header>
 				</div>
 				<div className="sidebar">
 					<Divider orientation="right" thickness={1}></Divider>
