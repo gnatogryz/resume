@@ -1,8 +1,8 @@
 import React from 'react';
 import logo from './logo.svg';
-import './App.scss';
+import './Resume.scss';
 
-function App() {
+function Resume() {
 	return (
 		<div className="resume-container">
 			<div className="header">header</div>
@@ -12,4 +12,4 @@ function App() {
 	);
 }
 
-export default App;
+export default Resume;
