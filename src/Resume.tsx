@@ -2,6 +2,7 @@ import React from 'react';
 import logo from './logo.svg';
 import './Resume.scss';
 import Divider from './components/Divider';
+import Header from './components/Header';
 
 function Resume() {
 	return (
@@ -9,7 +10,7 @@ function Resume() {
 			<div className="resume-container">
 				<div className="header">
 					<Divider orientation="bottom" thickness={1}></Divider>
-					header
+					<Header>Michał Dobrzański</Header>
 				</div>
 				<div className="sidebar">
 					<Divider orientation="right" thickness={1}></Divider>

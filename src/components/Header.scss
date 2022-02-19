@@ -1,0 +1,18 @@
+#main-header {
+	height: 100%;
+	display: flex;
+	flex-flow: column;
+	align-items: center;
+	justify-content: center;
+	text-transform: uppercase;
+
+	h1 {
+		font-weight: 100;
+		font-size: 2.5rem;
+		margin: 0.2rem 0 0.2rem 0;
+	}
+
+	span {
+		color: grey;
+	}
+}
