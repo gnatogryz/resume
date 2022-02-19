@@ -1,0 +1,22 @@
+hr {
+	position: absolute;
+	margin: 0;
+	padding: 0;
+	border: 0px;
+
+	&.bottom {
+		width: 100%;
+		bottom: 0px;
+		border-top: 2px solid black;
+	}
+
+	&.right {
+		$h: 95%;
+		$t: calc((100% - #{$h}) * 0.5);
+
+		height: $h;
+		right: 0px;
+		top: $t;
+		border-right: 1px solid grey;
+	}
+}

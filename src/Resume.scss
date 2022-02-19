@@ -36,6 +36,10 @@
 		'header header'
 		'sidebar main';
 
+	> * {
+		position: relative;
+	}
+
 	.header {
 		grid-area: header;
 		//background: green;
