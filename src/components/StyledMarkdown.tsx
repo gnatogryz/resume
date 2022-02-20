@@ -9,7 +9,7 @@ const [H1, H2, H3] = (['h1', 'h2', 'h3'] as (keyof JSX.IntrinsicElements)[]).map
 	</div>
 ));
 
-export default function ({ children }: { children: string }) {
+export default function StyledMarkdown({ children }: { children: string }) {
 	return (
 		<ReactMarkdown
 			components={{
