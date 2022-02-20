@@ -10,7 +10,7 @@ function Resume() {
 	// yes, I know useCallback here is overkill ;)
 	const toggleZoom = useCallback(() => setZoomedIn(!zoomedIn), [zoomedIn]);
 	const resumePageInlineStyle = {
-		scale: `${zoomedIn ? 1.6 : 1.0}`,
+		transform: `scale(${zoomedIn ? 1.6 : 1.0})`,
 		cursor: zoomedIn ? 'zoom-out' : 'zoom-in',
 	};
 
