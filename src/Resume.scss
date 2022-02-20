@@ -14,6 +14,8 @@
 		@page {
 			size: A4 portrait;
 		}
+		// hack to disable zooming feature on cellular
+		transform: scale(1) !important;
 		margin: 0;
 		padding: 0;
 		width: 100vw; //210mm;
