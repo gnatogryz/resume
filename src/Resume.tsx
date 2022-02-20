@@ -2,6 +2,7 @@ import React, { useCallback, useState } from 'react';
 import './Resume.scss';
 import Divider from './components/Divider';
 import Header from './components/Header';
+import StyledMarkdown from './components/StyledMarkdown';
 
 function Resume() {
 	const [zoomedIn, setZoomedIn] = useState(false);
@@ -17,12 +18,19 @@ function Resume() {
 		<div className="resume-page" style={resumePageInlineStyle} onClick={toggleZoom}>
 			<div className="resume-container">
 				<div className="header">
-					<Divider orientation="bottom" thickness={2}></Divider>
+					<Divider orientation="bottom" thickness={2} />
 					<Header subheader="software engineer">Michał Dobrzański</Header>
 				</div>
 				<div className="sidebar">
-					<Divider orientation="right" thickness={1}></Divider>
-					sidebar
+					<Divider orientation="right" thickness={1} />
+					<StyledMarkdown
+						children={`
+# header 1
+## header 2
+- list
+- list
+					`}
+					/>
 				</div>
 				<div className="main">main</div>
 			</div>

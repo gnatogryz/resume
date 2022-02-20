@@ -51,8 +51,10 @@
 	}
 	.sidebar {
 		grid-area: sidebar;
+		padding: 1rem;
 	}
 	.main {
 		grid-area: main;
+		padding: 1rem;
 	}
 }
