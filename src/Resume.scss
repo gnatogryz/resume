@@ -10,7 +10,7 @@
 		width: calc(100vh * (210 / 297) - 2em);
 	}
 
-	@media only print {
+	@media print, screen and (max-width: 768px) {
 		@page {
 			size: A4 portrait;
 		}
@@ -25,7 +25,12 @@
 .resume-container {
 	@media only screen {
 		box-shadow: #c8c8c8 0em 0em 3em;
+
 		margin: 1em 0;
+
+		@media only screen and (max-width: 768px) {
+			margin: 0;
+		}
 	}
 	@media only print {
 		margin: 0;
