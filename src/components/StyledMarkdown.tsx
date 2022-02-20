@@ -9,7 +9,7 @@ const [H1, H2, H3] = (['h1', 'h2', 'h3'] as (keyof JSX.IntrinsicElements)[]).map
 	</div>
 ));
 
-export default function StyledMarkdown({ children }: { children: string }) {
+export default React.memo(function ({ children }: { children: string }) {
 	return (
 		<ReactMarkdown
 			components={{
@@ -21,4 +21,4 @@ export default function StyledMarkdown({ children }: { children: string }) {
 			{children}
 		</ReactMarkdown>
 	);
-}
+});
