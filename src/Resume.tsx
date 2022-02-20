@@ -18,11 +18,11 @@ function Resume() {
 		<div className="resume-page" style={resumePageInlineStyle} onClick={toggleZoom}>
 			<div className="resume-container">
 				<div className="header">
-					<Divider orientation="bottom" thickness={2}></Divider>
+					<Divider orientation="bottom" thickness={2} />
 					<Header subheader="software engineer">Michał Dobrzański</Header>
 				</div>
 				<div className="sidebar">
-					<Divider orientation="right" thickness={1}></Divider>
+					<Divider orientation="right" thickness={1} />
 					<StyledMarkdown
 						children={`
 # header 1
