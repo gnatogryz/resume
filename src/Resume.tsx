@@ -2,6 +2,7 @@ import React, { useCallback, useState } from 'react';
 import './Resume.scss';
 import Divider from './components/Divider';
 import Header from './components/Header';
+import StyledMarkdown from './components/StyledMarkdown';
 
 function Resume() {
 	const [zoomedIn, setZoomedIn] = useState(false);
@@ -22,7 +23,14 @@ function Resume() {
 				</div>
 				<div className="sidebar">
 					<Divider orientation="right" thickness={1}></Divider>
-					sidebar
+					<StyledMarkdown
+						children={`
+# header 1
+## header 2
+- list
+- list
+					`}
+					/>
 				</div>
 				<div className="main">main</div>
 			</div>
