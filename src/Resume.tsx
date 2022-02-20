@@ -25,8 +25,10 @@ function Resume() {
 					<Divider orientation="right" thickness={1} />
 					<StyledMarkdown
 						children={`
-# header 1
-## header 2
+# Contact
+📞 +48 796 314 796  
+📨 plague@go2.pl
+# Skills
 - list
 - list
 					`}
