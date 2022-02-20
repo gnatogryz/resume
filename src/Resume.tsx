@@ -1,15 +1,23 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { useCallback, useState } from 'react';
 import './Resume.scss';
 import Divider from './components/Divider';
 import Header from './components/Header';
 
 function Resume() {
+	const [zoomedIn, setZoomedIn] = useState(false);
+
+	// yes, I know useCallback here is overkill ;)
+	const toggleZoom = useCallback(() => setZoomedIn(!zoomedIn), [zoomedIn]);
+	const resumePageInlineStyle = {
+		scale: `${zoomedIn ? 1.6 : 1.0}`,
+		cursor: zoomedIn ? 'zoom-out' : 'zoom-in',
+	};
+
 	return (
-		<div className="resume-page">
+		<div className="resume-page" style={resumePageInlineStyle} onClick={toggleZoom}>
 			<div className="resume-container">
 				<div className="header">
-					<Divider orientation="bottom" thickness={1}></Divider>
+					<Divider orientation="bottom" thickness={2}></Divider>
 					<Header subheader="software engineer">Michał Dobrzański</Header>
 				</div>
 				<div className="sidebar">
