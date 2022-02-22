@@ -1,6 +1,6 @@
 # Contact
-📞 +48 796 314 796  
-📨 plague@go2.pl
+**T:** +48 796 314 796  
+**E:** plague@go2.pl
 
 # Tech Exp
 - C#
