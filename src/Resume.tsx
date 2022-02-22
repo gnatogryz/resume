@@ -3,6 +3,7 @@ import './Resume.scss';
 import Divider from './components/Divider';
 import Header from './components/Header';
 import StyledMarkdown from './components/StyledMarkdown';
+import RemoteMarkdown from './components/RemoteMarkdown';
 
 function Resume() {
 	const [zoomedIn, setZoomedIn] = useState(false);
@@ -23,18 +24,11 @@ function Resume() {
 				</div>
 				<div className="sidebar">
 					<Divider orientation="right" thickness={1} />
-					<StyledMarkdown
-						children={`
-# Contact
-📞 +48 796 314 796  
-📨 plague@go2.pl
-# Skills
-- list
-- list
-					`}
-					/>
+					<RemoteMarkdown url="/summary.md" />
 				</div>
-				<div className="main">main</div>
+				<div className="main">
+					<RemoteMarkdown url="/main.md" />
+				</div>
 			</div>
 		</div>
 	);
