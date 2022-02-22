@@ -13,7 +13,10 @@
 - Vue.js
 - AWS Lambda (NodeJS)
 - Linux
-- Git
+- Git 
+
+**Some experience with:**  
+Svelte, Ruby, SQL, WPF, Qt
 
 # Other skills
 - Working with Scrum
