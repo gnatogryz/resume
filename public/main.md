@@ -8,7 +8,7 @@ participated in choosing the right tech-stack for our projects, and much more.
 I have extensive experience working with external teams (mostly **Hewlett-Packard** US branch),
 coordinating work and making sure the management understands the developers' point of view.
 
-# Relevant Work Experience:
+# Relevant Work Experience
 ### Drago Entertainment (2011)
 - Intern (C++)
 
@@ -24,6 +24,6 @@ coordinating work and making sure the management understands the developers' poi
 Whenever possible, I opt to problem-solve instead of brute-forcing challenges.
 I am open to learning new technologies if need be, and when something piques my interest.
 
-I have an obsession with building my own mechanical keyboards, can ride a unicycle but cannot juggle. Yet. 
+I have an obsession with building my own mechanical keyboards, can ride a unicycle but cannot juggle. Yet.
 
 This document itself is a simple React project, available at [https://github.com/gnatogryz/resume](https://github.com/gnatogryz/resume)
