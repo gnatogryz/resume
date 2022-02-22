@@ -15,7 +15,7 @@ export default function RemoteMarkdown({ url }: { url: string }) {
 			setFetchError(true);
 			console.error(e);
 		});
-	}, []);
+	});
 
 	return mdContent ? <StyledMarkdown children={mdContent} /> : fetchError ? <div>Fetching markdown failed</div> : <div>Loading...</div>;
 }

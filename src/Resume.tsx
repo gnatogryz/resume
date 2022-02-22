@@ -2,7 +2,6 @@ import React, { useCallback, useState } from 'react';
 import './Resume.scss';
 import Divider from './components/Divider';
 import Header from './components/Header';
-import StyledMarkdown from './components/StyledMarkdown';
 import RemoteMarkdown from './components/RemoteMarkdown';
 
 function Resume() {
