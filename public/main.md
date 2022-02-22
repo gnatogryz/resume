@@ -9,10 +9,10 @@ I have extensive experience working with external teams (mostly Hewlett-Packard 
 coordinating work and making sure the management understands the developers' point of view.
 
 # Relevant Work Experience:
-### Drago Entertainment (6 months)
+### Drago Entertainment (2011)
 - intern
 
-### Awesome Industries
+### Awesome Industries (Since 2013)
 - Unity3D / C# developer
 - Lead Unity3D / C# developer
 - React/Next.js developer
