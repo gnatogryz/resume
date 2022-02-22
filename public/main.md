@@ -20,8 +20,10 @@ coordinating work and making sure the management understands the developers' poi
 - AWS Lambda Node.js developer
 - Conducting recruitment interviews on multiple occasions
 
-# Few words about me
+# About me
 Whenever possible, I opt to problem-solve instead of brute-forcing challenges.
 I am open to learning new technologies if need be, and when something piques my interest.
+
+I have an obsession with building my own mechanical keyboards, can ride a unicycle but cannot juggle. Yet. 
 
 This document itself is a simple React project, available at [https://github.com/gnatogryz/resume](https://github.com/gnatogryz/resume)
