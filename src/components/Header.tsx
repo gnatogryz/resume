@@ -6,7 +6,7 @@ export default React.memo(function ({ children, subheader }: { children: ReactNo
 		<div id="main-header">
 			<div className="header-container">
 				<div className="left">
-					<img alt="Profile photo" className="avatar" src="avatar.jpg" />
+					<img alt="Profile" className="avatar" src="avatar.jpg" />
 				</div>
 				<div className="right">
 					<h1>{children}</h1>
