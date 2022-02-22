@@ -11,7 +11,7 @@
 - React
 - Next.js
 - Vue.js
-- AWS Lambda (NodeJS)
+- AWS Lambda (Node.js)
 - Linux
 - Git 
 
