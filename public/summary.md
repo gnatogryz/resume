@@ -1,5 +1,5 @@
 # Contact
-**T:** +48 796 314 796  
+**T:** +48 796 314 796
 **E:** plague@go2.pl
 
 # Tech Exp
@@ -13,9 +13,9 @@
 - Vue.js
 - AWS Lambda (Node.js)
 - Linux
-- Git 
+- Git
 
-### Some experience in: 
+### Some experience in
 Svelte, Ruby, SQL, WPF, Qt
 
 # Other skills
