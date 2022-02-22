@@ -10,7 +10,7 @@ coordinating work and making sure the management understands the developers' poi
 
 # Relevant Work Experience:
 ### Drago Entertainment (2011)
-- Intern
+- Intern (C++)
 
 ### Awesome Industries (Since 2013)
 - Unity3D / C# developer
