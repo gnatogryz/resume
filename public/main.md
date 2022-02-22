@@ -10,7 +10,7 @@ coordinating work and making sure the management understands the developers' poi
 
 # Relevant Work Experience:
 ### Drago Entertainment (2011)
-- intern
+- Intern
 
 ### Awesome Industries (Since 2013)
 - Unity3D / C# developer
@@ -18,3 +18,4 @@ coordinating work and making sure the management understands the developers' poi
 - React/Next.js developer
 - Lead Vue developer
 - AWS Lambda Node.js developer
+- Conducting recruitment interviews on multiple occasions
