@@ -15,7 +15,7 @@
 - Linux
 - Git 
 
-**Some experience with:**  
+### Some experience in: 
 Svelte, Ruby, SQL, WPF, Qt
 
 # Other skills

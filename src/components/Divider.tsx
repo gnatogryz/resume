@@ -7,5 +7,5 @@ export interface DividerProps {
 }
 
 export default React.memo(function ({ orientation, thickness = 1, ...props }: DividerProps) {
-	return <hr className={orientation} style={{ borderWidth: `${thickness / 14}rem` }} />;
+	return <hr className={orientation} style={{ borderWidth: `${thickness / 12}rem` }} />;
 });
