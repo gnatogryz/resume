@@ -35,7 +35,7 @@ function Resume() {
 				<div className="main">
 					<RemoteMarkdown url="/main.md" />
 					{targetCompany && (
-						<StyledMarkdown>{`_I hereby agree that my personal data will be processed by ${targetCompany} in order to recruit for the position I am applying for._`}</StyledMarkdown>
+						<StyledMarkdown>{`_I hereby give consent for my personal data to be processed by ${targetCompany} for the purpose of conducting recruitment for the position for which I am applying._`}</StyledMarkdown>
 					)}
 				</div>
 			</div>
