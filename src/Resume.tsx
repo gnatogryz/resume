@@ -1,11 +1,13 @@
-import React, { useCallback, useState } from 'react';
+import React, { useCallback, useEffect, useState } from 'react';
 import './Resume.scss';
 import Divider from './components/Divider';
 import Header from './components/Header';
 import RemoteMarkdown from './components/RemoteMarkdown';
+import StyledMarkdown from './components/StyledMarkdown';
 
 function Resume() {
 	const [zoomedIn, setZoomedIn] = useState(false);
+	const [targetCompany, setTargetCompany] = useState('');
 
 	// yes, I know useCallback here is overkill ;)
 	const toggleZoom = useCallback(() => setZoomedIn(!zoomedIn), [zoomedIn]);
@@ -13,6 +15,11 @@ function Resume() {
 		transform: `scale(${zoomedIn ? 1.6 : 1.0})`,
 		cursor: zoomedIn ? 'zoom-out' : 'zoom-in',
 	};
+
+	useEffect(() => {
+		const params = new URLSearchParams(window.location.search);
+		params.has('company') && setTargetCompany(params.get('company')!);
+	});
 
 	return (
 		<div className="resume-page" style={resumePageInlineStyle} onClick={toggleZoom}>
@@ -27,6 +34,9 @@ function Resume() {
 				</div>
 				<div className="main">
 					<RemoteMarkdown url="/main.md" />
+					{targetCompany && (
+						<StyledMarkdown>{`_I hereby agree that my personal data will be processed by ${targetCompany} in order to recruit for the position I am applying for._`}</StyledMarkdown>
+					)}
 				</div>
 			</div>
 		</div>
