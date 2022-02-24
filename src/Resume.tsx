@@ -1,4 +1,4 @@
-import React, { useCallback, useEffect, useState } from 'react';
+import React, { MouseEventHandler, useCallback, useEffect, useState } from 'react';
 import './Resume.scss';
 import Divider from './components/Divider';
 import Header from './components/Header';
@@ -10,7 +10,7 @@ function Resume() {
 	const [targetCompany, setTargetCompany] = useState('');
 
 	// yes, I know useCallback here is overkill ;)
-	const toggleZoom = useCallback(() => setZoomedIn(!zoomedIn), [zoomedIn]);
+	const toggleZoom = useCallback((e) => e.target.tagName !== 'A' && setZoomedIn(!zoomedIn), [zoomedIn]);
 	const resumePageInlineStyle = {
 		transform: `scale(${zoomedIn ? 1.6 : 1.0})`,
 		cursor: zoomedIn ? 'zoom-out' : 'zoom-in',
