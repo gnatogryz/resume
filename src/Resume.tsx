@@ -1,4 +1,4 @@
-import React, { MouseEventHandler, useCallback, useEffect, useState } from 'react';
+import React, { useCallback, useEffect, useState } from 'react';
 import './Resume.scss';
 import Divider from './components/Divider';
 import Header from './components/Header';
