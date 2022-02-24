@@ -19,7 +19,7 @@ function Resume() {
 	useEffect(() => {
 		const params = new URLSearchParams(window.location.search);
 		params.has('company') && setTargetCompany(params.get('company')!);
-	});
+	}, []);
 
 	return (
 		<div className="resume-page" style={resumePageInlineStyle} onClick={toggleZoom}>
