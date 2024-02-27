@@ -8,7 +8,7 @@ participated in choosing the right tech-stack for our projects, and much more.
 I have extensive experience working with external teams (mostly **Hewlett-Packard** US branch),
 coordinating work and making sure the management understands the developers' point of view.
 
-Recently I took the position of manager / head developer for a front–end team within Toolkit3D, focused on application development.
+Recently I took the position of manager / head developer for a front–end team within **Toolkit3D**, focused on application development.
 
 # Relevant Work Experience
 ### Drago Entertainment (2011)
