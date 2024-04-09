@@ -1,4 +1,4 @@
-# Résumé, Curriculum Vitae or whatever you want to call it
+# Résumé, Curriculum Vitae or whatever it's called
 
 I really don't get along with WYSIWYG applications, so I've decided to create my CV as a simple React project. Feel free to browse around, and see the [live version here](https://resume-gnatogryz.vercel.app/).
 
