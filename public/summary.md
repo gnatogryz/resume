@@ -4,14 +4,15 @@
 
 # Tech Exp
 - C#
-- Unity3D
-- ECMA Script
 - TypeScript
-- MongoDB
+- ECMA Script
 - React
 - Next.js
 - Vue.js
+- Angular
 - AWS Lambda (Node.js)
+- MongoDB
+- Unity3D
 - Linux
 - Git
 

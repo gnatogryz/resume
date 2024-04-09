@@ -14,6 +14,17 @@ Recently I took the position of manager / head developer for a front–end team 
 ### Drago Entertainment (2011)
 - Intern (C++)
 
+### Toolkit3D (2023 – current)
+- Software Manager for the Solutions team
+- Node.js: React, Next.js
+- Tauri, Electron
+- MongoDB
+- AWS Lambda
+
+### PubNub (2022-2023)
+- Unity3D / C# developer
+- Contribution to Unity, C# and JavaScript SDKs
+
 ### Awesome Industries (2013 – 2022)
 - Unity3D / C# developer
 - Lead Unity3D / C# developer
@@ -21,17 +32,6 @@ Recently I took the position of manager / head developer for a front–end team 
 - Lead Vue developer
 - AWS Lambda Node.js developer
 - Conducting recruitment interviews on multiple occasions
-
-### PubNub (2022-2023)
-- Unity3D / C# developer
-- Contribution to Unity, C# and JavaScript SDKs
-
-### Toolkit3D (2023 – current)
-- Software Manager for the Solutions team
-- Node.js: React, Next.js
-- Tauri, Electron
-- MongoDB
-- AWS Lambda
 
 # About me
 Whenever possible, I opt to problem-solve instead of brute-forcing challenges.
