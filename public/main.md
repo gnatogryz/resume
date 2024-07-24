@@ -11,19 +11,19 @@ coordinating work and making sure the management understands the developers' poi
 Recently I took the position of manager / head developer for a front–end team within **Toolkit3D**, focused on application development.
 
 # Relevant Work Experience
-### Drago Entertainment (2011)
-- Intern (C++)
 
 ### Toolkit3D (2023 – current)
-- Software Manager for the Solutions team
+- Technical Software Manager for the Solutions team
 - Node.js: React, Next.js
 - Tauri, Electron
 - MongoDB
 - AWS Lambda
+- Conducting recruitment interviews on multiple occasions
 
 ### PubNub (2022-2023)
 - Unity3D / C# developer
 - Contribution to Unity, C# and JavaScript SDKs
+- Conducting recruitment interviews on multiple occasions
 
 ### Awesome Industries (2013 – 2022)
 - Unity3D / C# developer
@@ -32,6 +32,9 @@ Recently I took the position of manager / head developer for a front–end team 
 - Lead Vue developer
 - AWS Lambda Node.js developer
 - Conducting recruitment interviews on multiple occasions
+
+### Drago Entertainment (2011)
+- Intern (C++)
 
 # About me
 Whenever possible, I opt to problem-solve instead of brute-forcing challenges.
