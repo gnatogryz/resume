@@ -1,23 +1,18 @@
 # Contact
-**T:** +48 796 314 796  
+**T:** +48 796 314 796
 **E:** plague@go2.pl
 
-# Tech Exp
-- C#
-- TypeScript
-- ECMA Script
-- React
-- Next.js
-- Vue.js
-- Angular
+# Tech Skills
+- C♯, Unity3D
+- TypeScript, ECMA Script
+- React, Next.js, Vue.js
 - AWS Lambda (Node.js)
 - MongoDB
-- Unity3D
-- Linux
-- Git
+- Linux, Git
+- Software design patterns
 
 ### Some experience in
-Svelte, Ruby, SQL, WPF, Qt
+Svelte, Ruby, SQL, WPF, Qt, Angular
 
 # Other skills
 - Working with Scrum

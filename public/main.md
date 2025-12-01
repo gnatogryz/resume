@@ -8,30 +8,31 @@ participated in choosing the right tech-stack for our projects, and much more.
 I have extensive experience working with external teams (mostly **Hewlett-Packard** US branch),
 coordinating work and making sure the management understands the developers' point of view.
 
-Recently I took the position of manager / head developer for a front–end team within **Toolkit3D**, focused on application development.
+Recently I took the position of manager / head developer for a front–end team within **Toolkit3D**, focused on application development, and contributions to
+a voxel engine based design software with a C♯ based user interface.
 
 # Relevant Work Experience
 
 ### Toolkit3D (2023 – current)
 - Technical Software Manager for the Solutions team
-- Node.js: React, Next.js
+- React, Next.js
 - Tauri, Electron
-- MongoDB
-- AWS Lambda
-- Conducting recruitment interviews on multiple occasions
+- MongoDB, AWS Lambda (Node.js)
+- C♯ + custom UI framework
+- Conducting recruitment interviews
 
 ### PubNub (2022-2023)
-- Unity3D / C# developer
+- Unity3D / C♯ developer
 - Contribution to Unity, C# and JavaScript SDKs
-- Conducting recruitment interviews on multiple occasions
+- Fundamental design and implementation of [C♯ SDK Event Engine (FSM)](https://github.com/pubnub/c-sharp/pull/170/files)
+- Conducting recruitment interviews
 
 ### Awesome Industries (2013 – 2022)
-- Unity3D / C# developer
-- Lead Unity3D / C# developer
+- Lead Unity3D / C♯ developer
 - React/Next.js + MongoDB developer
 - Lead Vue developer
 - AWS Lambda Node.js developer
-- Conducting recruitment interviews on multiple occasions
+- Conducting recruitment interviews
 
 ### Drago Entertainment (2011)
 - Intern (C++)
@@ -42,4 +43,4 @@ I am open to learning new technologies if need be, and when something piques my 
 
 My current obsession is photography, especially wildlife and outdoors.
 
-This document itself is a simple React project, available at [https://github.com/gnatogryz/resume](https://github.com/gnatogryz/resume)
+This document itself is a simple React project, available at [github.com/gnatogryz/resume](https://github.com/gnatogryz/resume)
