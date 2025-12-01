@@ -22,7 +22,7 @@ a voxel engine based design software with a C♯ based user interface.
 - Conducting recruitment interviews
 
 ### PubNub (2022-2023)
-- Unity3D / C♯ developer
+- Unity3D / C♯ developer, in charge of the Unity SDK
 - Contribution to Unity, C# and JavaScript SDKs
 - Fundamental design and implementation of [C♯ SDK Event Engine (FSM)](https://github.com/pubnub/c-sharp/pull/170/files)
 - Conducting recruitment interviews
