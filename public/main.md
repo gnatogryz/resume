@@ -11,24 +11,33 @@ coordinating work and making sure the management understands the developers' poi
 Recently I took the position of manager / head developer for a front–end team within **Toolkit3D**, focused on application development, and contributions to
 a voxel engine based design software with a C♯ based user interface.
 
+I focus on writing code _as short as possible_ and _as reusable as possible_, utilizing appropriate design patterns and language features.
+
 # Relevant Work Experience
 
 ### Toolkit3D (2023 – current)
 - Technical Software Manager for the Solutions team
+    - Defining the scope of work, design patterns and techniques to be used in implementation
 - React, Next.js
 - Tauri, Electron
 - MongoDB, AWS Lambda (Node.js)
 - C♯ + custom UI framework
+    - Modernization of C♯ codebase using DI and reflection
 - Conducting recruitment interviews
 
 ### PubNub (2022-2023)
 - Unity3D / C♯ developer, in charge of the Unity SDK
 - Contribution to Unity, C# and JavaScript SDKs
-- Fundamental design and implementation of [C♯ SDK Event Engine (FSM)](https://github.com/pubnub/c-sharp/pull/170/files)
+    - Modernization of legacy thread-based codebase into async/await with dependency injection
+    - Fundamental design and [implementation of C♯ SDK Event Engine (FSM)](https://github.com/pubnub/c-sharp/pull/170/files)
 - Conducting recruitment interviews
 
 ### Awesome Industries (2013 – 2022)
 - Lead Unity3D / C♯ developer
+- Writing game code as well as development tools extending Unity Editor, including:
+    - Multi-threaded (async/await) solution while the engine was still strictly single-threaded
+    - Custom spline editors leveraging hidden engine features via reflection
+    - System for defining and runtime orchestration of UI animations for the whole object tree
 - React/Next.js + MongoDB developer
 - Lead Vue developer
 - AWS Lambda Node.js developer
