@@ -4,9 +4,10 @@
 **E:** plague@go2.pl
 
 # Tech Skills
-- C♯, Unity3D
-- TypeScript, ECMA Script
-- React, Next.js, Vue.js
+- C♯ _(6+ years)_
+- TypeScript, ECMA Script _(5 years)_
+- Unity3D _(4 years)_
+- React, Next.js, Vue.js _(4 years)_
 - AWS Lambda (Node.js)
 - MongoDB
 - Linux, Git
