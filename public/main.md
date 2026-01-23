@@ -30,6 +30,7 @@ I focus on writing code _as short as possible_ and _as reusable as possible_, ut
 - Contribution to Unity, C# and JavaScript SDKs
     - Modernization of legacy thread-based codebase into async/await with dependency injection
     - Fundamental design and [implementation of C♯ SDK Event Engine (FSM)](https://github.com/pubnub/c-sharp/pull/170/files)
+    - Ensuring SDK compatibility with .NET Core, .NET Framework 3.5, UWP
 - Conducting recruitment interviews
 
 ### Awesome Industries (2013 – 2022)
