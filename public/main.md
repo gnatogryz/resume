@@ -22,7 +22,8 @@ I focus on writing code _as short as possible_ and _as reusable as possible_, ut
 - Tauri, Electron
 - MongoDB, AWS Lambda (Node.js)
 - C♯ + custom UI framework
-    - Modernization of C♯ codebase using DI and reflection
+    - Modernization of C♯ codebase towards DI (without a framework)
+    - Fixing and re-writing a decade worth of tech debt
 - Conducting recruitment interviews
 
 ### PubNub (2022-2023)
