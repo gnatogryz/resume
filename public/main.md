@@ -9,9 +9,9 @@ I have extensive experience working with external teams (mostly **Hewlett-Packar
 coordinating work and making sure the management understands the developers' point of view.
 
 Recently I took the position of manager / head developer for a front–end team within **Toolkit3D**, focused on application development, and contributions to
-a voxel engine based design software with a C# based user interface.
+a voxel engine based design software with a **C#** based user interface.
 
-I focus on writing code _as short as possible_ and _as reusable as possible_, utilizing appropriate design patterns and language features.
+I focus on writing code _as short as possible_ and _as reusable as possible_, utilizing appropriate **design patterns** and language features.
 
 # Relevant Work Experience
 
