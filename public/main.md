@@ -9,7 +9,7 @@ I have extensive experience working with external teams (mostly **Hewlett-Packar
 coordinating work and making sure the management understands the developers' point of view.
 
 Recently I took the position of manager / head developer for a front–end team within **Toolkit3D**, focused on application development, and contributions to
-a voxel engine based design software with a C♯ based user interface.
+a voxel engine based design software with a C# based user interface.
 
 I focus on writing code _as short as possible_ and _as reusable as possible_, utilizing appropriate design patterns and language features.
 
@@ -21,21 +21,21 @@ I focus on writing code _as short as possible_ and _as reusable as possible_, ut
 - React, Next.js
 - Tauri, Electron
 - MongoDB, AWS Lambda (Node.js)
-- C♯ + custom UI framework
-    - Modernization of C♯ codebase towards DI (without a framework)
+- C# + custom UI framework
+    - Modernization of C# codebase towards DI (without a framework)
     - Fixing and re-writing a decade worth of tech debt
 - Conducting recruitment interviews
 
 ### PubNub (2022-2023)
-- Unity3D / C♯ developer, in charge of the Unity SDK
+- Unity3D / C# developer, in charge of the Unity SDK
 - Contribution to Unity, C# and JavaScript SDKs
     - Modernization of legacy thread-based codebase into async/await with dependency injection
-    - Fundamental design and [implementation of C♯ SDK Event Engine (FSM)](https://github.com/pubnub/c-sharp/pull/170/files)
+    - Fundamental design and [implementation of C# SDK Event Engine (FSM)](https://github.com/pubnub/c-sharp/pull/170/files)
     - Ensuring SDK compatibility with .NET Core, .NET Framework 3.5, UWP
 - Conducting recruitment interviews
 
 ### Awesome Industries (2013 – 2022)
-- Lead Unity3D / C♯ developer
+- Lead Unity3D / C# developer
 - Writing game code as well as development tools extending Unity Editor, including:
     - Multi-threaded (async/await) solution while the engine was still strictly single-threaded
     - Custom spline editors leveraging hidden engine features via reflection
@@ -51,6 +51,9 @@ I focus on writing code _as short as possible_ and _as reusable as possible_, ut
 # About me
 Whenever possible, I opt to problem-solve instead of brute-forcing challenges.
 I am open to learning new technologies if need be, and when something piques my interest.
+
+I am a generalist, my experience with various technologies stems from the fact that I tended to pick up tasks that _needed to be done_,
+often in various technologies outside my usual playbook.
 
 My current obsession is photography, especially wildlife and outdoors.
 

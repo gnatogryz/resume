@@ -1,20 +1,23 @@
 # Contact
 **T:** +48 796 314 796
 
-**E:** plague@go2.pl
+**E:** kontakt@kobrzan.pl
 
 # Tech Skills
-- C♯ _(6+ years)_
+- C# _(6+ years)_
 - TypeScript, ECMA Script _(5 years)_
 - Unity3D _(4 years)_
 - React, Next.js, Vue.js _(4 years)_
 - AWS Lambda (Node.js)
 - MongoDB
+- Svelte
+- Ruby
+- SQL
+- WPF
+- Qt
 - Linux, Git
 - Software design patterns
 
-### Some experience in
-Svelte, Ruby, SQL, WPF, Qt, Angular
 
 # Other skills
 - Working with Scrum
