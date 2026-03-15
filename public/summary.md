@@ -1,7 +1,7 @@
 # Contact
 **T:** +48 796 314 796
 
-**E:** kontakt@kobrzan.pl
+**E:** plague@go2.pl
 
 # Tech Skills
 - C# _(6+ years)_
