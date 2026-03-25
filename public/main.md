@@ -18,9 +18,12 @@ I focus on writing code _as short as possible_ and _as reusable as possible_, ut
 ### Toolkit3D (2023 – current)
 - Technical Software Manager for the Solutions team
     - Defining the scope of work, design patterns and techniques to be used in implementation
-- React, Next.js
+- React, Next.js, Tailwind, Shadcn
+    - From feature request to implementation: analyzing the task, choosing the right implementation strategy, defining tasks for the team and myself
 - Tauri, Electron
+    - Desktop wrappers for web applications createt as need arose
 - MongoDB, AWS Lambda (Node.js)
+    - Creation of OpenAPI specification and concrete endpoint implementation using Lambda, MongoDB and ApiGW
 - C# + custom UI framework
     - Modernization of C# codebase towards DI (without a framework)
     - Fixing and re-writing a decade worth of tech debt
@@ -32,6 +35,7 @@ I focus on writing code _as short as possible_ and _as reusable as possible_, ut
     - Modernization of legacy thread-based codebase into async/await with dependency injection
     - Fundamental design and [implementation of C# SDK Event Engine (FSM)](https://github.com/pubnub/c-sharp/pull/170/files)
     - Ensuring SDK compatibility with .NET Core, .NET Framework 3.5, UWP
+- Proactive involvement in shaping the shared direction of SDKs: designing a common approach that all language-specific SDKs (C#, JS, Rust, Kotlin, PHP, Python) will follow
 - Conducting recruitment interviews
 
 ### Awesome Industries (2013 – 2022)
@@ -53,7 +57,8 @@ Whenever possible, I opt to problem-solve instead of brute-forcing challenges.
 I am open to learning new technologies if need be, and when something piques my interest.
 
 I am a generalist, my experience with various technologies stems from the fact that I tended to pick up tasks that _needed to be done_,
-often in various technologies outside my usual playbook.
+often in various technologies outside my usual playbook. I believe that given a chance to dip into something, I can quickly start contributing –
+even if initially it's outside my usual expertise.
 
 My current obsession is photography, especially wildlife and outdoors.
 

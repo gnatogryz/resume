@@ -1,7 +1,7 @@
 # Contact
 **T:** +48 796 314 796
 
-**E:** plague@go2.pl
+**E:** work@dobrzan.cc
 
 # Tech Skills
 - C# _(6+ years)_
