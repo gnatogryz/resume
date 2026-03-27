@@ -1,6 +1,7 @@
 # Profile
-I am a software engineer with years of experience spanning multiple technologies and applications.
+Senior Full-Stack Engineer & Engineering Manager with years of experience spanning multiple technologies and applications.
 Starting with game development, then branching off to fit the ever-evolving profile of the company, eventually reaching **web technologies**.
+Software Development Life Cycle (SDLC): I have led projects across the entire life cycle.
 
 I have served as lead developer for several **Unity3D** projects, filled the role of Product Owner when it was needed,
 participated in choosing the right tech-stack for our projects, and much more.
@@ -11,13 +12,13 @@ coordinating work and making sure the management understands the developers' poi
 Recently I took the position of manager / head developer for a front–end team within **Toolkit3D**, focused on application development, and contributions to
 a voxel engine based design software with a **C#** based user interface.
 
-I focus on writing code _as short as possible_ and _as reusable as possible_, utilizing appropriate **design patterns** and language features.
+I focus on designing scalable, performant, and maintainable systems, utilizing appropriate **design patterns** and language features.
 
 # Relevant Work Experience
 
 ### Toolkit3D (2023 – current)
 - Technical Software Manager for the Solutions team
-    - Defining the scope of work, design patterns and techniques to be used in implementation
+    - Led Technical Roadmap and Architecture Design for front-end solutions, managing the full SDLC from feature request to deployment.
 - React, Next.js, Tailwind, Shadcn
     - From feature request to implementation: analyzing the task, choosing the right implementation strategy, defining tasks for the team and myself
 - Tauri, Electron
@@ -31,7 +32,7 @@ I focus on writing code _as short as possible_ and _as reusable as possible_, ut
 
 ### PubNub (2022-2023)
 - Unity3D / C# developer, in charge of the Unity SDK
-- Contribution to Unity, C# and JavaScript SDKs
+- Engineered Cross-Platform SDKs using Asynchronous Programming (async/await) to optimize performance across .NET and JavaScript environments.
     - Modernization of legacy thread-based codebase into async/await with dependency injection
     - Fundamental design and [implementation of C# SDK Event Engine (FSM)](https://github.com/pubnub/c-sharp/pull/170/files)
     - Ensuring SDK compatibility with .NET Core, .NET Framework 3.5, UWP
@@ -39,7 +40,7 @@ I focus on writing code _as short as possible_ and _as reusable as possible_, ut
 - Conducting recruitment interviews
 
 ### Awesome Industries (2013 – 2022)
-- Lead Unity3D / C# developer
+- Spearheaded Full-Stack Development initiatives, transitioning from Game Development to Web Technologies (React/Node.js) while providing Mentorship to junior developers.
 - Writing game code as well as development tools extending Unity Editor, including:
     - Multi-threaded (async/await) solution while the engine was still strictly single-threaded
     - Custom spline editors leveraging hidden engine features via reflection
